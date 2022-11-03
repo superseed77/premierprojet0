@@ -1,0 +1,9 @@
+lm;lk;lk;lk;
+kjljlkjlkjlkj
+l;kj;lkj;j;lkj;
+<<<<<<< HEAD
+test29
+=======
+test2
+
+>>>>>>> f56cdcabbfdc80fc9eadc05cc8562feef53060dc
